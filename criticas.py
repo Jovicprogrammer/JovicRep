@@ -4,7 +4,7 @@ print(" 📽 "*5)
 print("Bem-Vindo")
 print(" 📽 "*5)
 
-atuação = (float(input("Nota da atuação: ")))
+atuação = (float(input("Nota das atuações: ")))
 ambientação = (float(input("Nota da ambientação: ")))
 Enredo = (float(input("Nota do roteiro: ")))
 personagens = (float(input("Nota dos personagens: ")))

@@ -1,6 +1,6 @@
 
-numero = (int(input("Numero top pra soma: ")))
-outro_numero = (int(input("Outro numeros: ")))
+numero = (int(input("Numero para somar: ")))
+outro_numero = (int(input("Outro numero: ")))
 
 print (numero + outro_numero)
 

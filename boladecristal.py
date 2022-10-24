@@ -20,7 +20,7 @@ if resposta == 1:
 
 if resposta == 2:
     time.sleep(2)
-    print ("*✧･ﾟ: *✧･ﾟ:")
+    print ("*✧･ﾟ: *✧･.ﾟ:")
     time.sleep(1)
     print ("Não")
 

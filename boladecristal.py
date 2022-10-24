@@ -14,7 +14,7 @@ pergunta = (str(input("Sua pergunta: ")))
 resposta = random.randrange (1,5)
 if resposta == 1:
     time.sleep(2)
-    print ("*✧･ﾟ: *✧･ﾟ:")
+    print ("*✧･ﾟ: *✧･.ﾟ:")
     time.sleep(1)
     print ("Sim")
 
